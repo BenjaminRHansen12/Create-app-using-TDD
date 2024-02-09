@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Benjamin\\programming\\TDDapp\\TDDapp.csproj": {}
+    "C:\\Users\\Benjamin\\programming\\tddapp\\TDDapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Benjamin\\programming\\TDDapp\\TDDapp.csproj": {
+    "C:\\Users\\Benjamin\\programming\\tddapp\\TDDapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Benjamin\\programming\\TDDapp\\TDDapp.csproj",
+        "projectUniqueName": "C:\\Users\\Benjamin\\programming\\tddapp\\TDDapp.csproj",
         "projectName": "TDDapp",
-        "projectPath": "C:\\Users\\Benjamin\\programming\\TDDapp\\TDDapp.csproj",
+        "projectPath": "C:\\Users\\Benjamin\\programming\\tddapp\\TDDapp.csproj",
         "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Benjamin\\programming\\TDDapp\\obj\\",
+        "outputPath": "C:\\Users\\Benjamin\\programming\\tddapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Benjamin\\AppData\\Roaming\\NuGet\\NuGet.Config"

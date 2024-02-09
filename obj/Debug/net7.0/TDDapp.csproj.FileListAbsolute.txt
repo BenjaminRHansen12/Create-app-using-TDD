@@ -1,0 +1,14 @@
+C:\Users\Benjamin\programming\tddapp\bin\Debug\net7.0\TDDapp.exe
+C:\Users\Benjamin\programming\tddapp\bin\Debug\net7.0\TDDapp.deps.json
+C:\Users\Benjamin\programming\tddapp\bin\Debug\net7.0\TDDapp.runtimeconfig.json
+C:\Users\Benjamin\programming\tddapp\bin\Debug\net7.0\TDDapp.dll
+C:\Users\Benjamin\programming\tddapp\bin\Debug\net7.0\TDDapp.pdb
+C:\Users\Benjamin\programming\tddapp\obj\Debug\net7.0\TDDapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\programming\tddapp\obj\Debug\net7.0\TDDapp.AssemblyInfoInputs.cache
+C:\Users\Benjamin\programming\tddapp\obj\Debug\net7.0\TDDapp.AssemblyInfo.cs
+C:\Users\Benjamin\programming\tddapp\obj\Debug\net7.0\TDDapp.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\programming\tddapp\obj\Debug\net7.0\TDDapp.dll
+C:\Users\Benjamin\programming\tddapp\obj\Debug\net7.0\refint\TDDapp.dll
+C:\Users\Benjamin\programming\tddapp\obj\Debug\net7.0\TDDapp.pdb
+C:\Users\Benjamin\programming\tddapp\obj\Debug\net7.0\TDDapp.genruntimeconfig.cache
+C:\Users\Benjamin\programming\tddapp\obj\Debug\net7.0\ref\TDDapp.dll
